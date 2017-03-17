@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1489294660 source:d:\codeblock_cpp\stl_test\main.cpp
+	<iostream>
+	<iterator>
+	<vector>
+	<algorithm>
+	<ctime>
+	<fstream>
+	<cstdio>
+	<iomanip>
+
